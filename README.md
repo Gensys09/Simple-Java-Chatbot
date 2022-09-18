@@ -1,5 +1,5 @@
 # Simple-Java-Chatbot
-![Banner]
+![Banner](chatbotjava.png?raw=true "Banner")
 
 This is code from a project I've worked on through the JetBrains Academy.
 
