@@ -9,32 +9,32 @@ The functions I have implemented include -
 
 1) Greet
 
- -The bot greets the user and tells about itself.
+   -The bot greets the user and tells about itself.
  
- -Then askes the user for their name.
+   -Then askes the user for their name.
  
 2) RemindName
 
- -Takes a string input for the name and prints it out for confirmation from the user.
+   -Takes a string input for the name and prints it out for confirmation from the user.
  
 3) GuessAge
 
- -The bot guesses the users age by asking them to divide their age by certain numbers (3, 5 and 7).
+   -The bot guesses the users age by asking them to divide their age by certain numbers (3, 5 and 7).
  
- -It calculates the age using a theorem (Column Chinese remainder theorem) based on the input given by the user in the previous step.
+   -It calculates the age using a theorem (Column Chinese remainder theorem) based on the input given by the user in the previous step.
  
 4) Count
 
- -Asks the user to enter a number
+   -Asks the user to enter a number
  
- -A loop starts which prints out all the numbers starting from 0 till the input value is reached
+   -A loop starts which prints out all the numbers starting from 0 till the input value is reached
  
 5) Test
 
- -A multiple-choice question is presented to the user.
+   -A multiple-choice question is presented to the user.
  
- -The user needs to choose the appropriate answer.
+   -The user needs to choose the appropriate answer.
  
- -If the wrong answer is entered, a message is printed out that asks the user to enter a choice again.
+   -If the wrong answer is entered, a message is printed out that asks the user to enter a choice again.
  
- -If the choice is correct, the while loop is exited.
+   -If the choice is correct, the while loop is exited.
