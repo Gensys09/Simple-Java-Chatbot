@@ -7,29 +7,29 @@ Project Title: Creating a Simple Chat Bot in Java
 
 The functions I have implemented include -
 
-*Greet
+1)Greet
 
  -The bot greets the user and tells about itself.
  
  -Then askes the user for their name.
  
-*RemindName
+2)RemindName
 
  -Takes a string input for the name and prints it out for confirmation from the user.
  
-*GuessAge
+3)GuessAge
 
  -The bot guesses the users age by asking them to divide their age by certain numbers (3, 5 and 7).
  
  -It calculates the age using a theorem (Column Chinese remainder theorem) based on the input given by the user in the previous step.
  
-*Count
+4)Count
 
  -Asks the user to enter a number
  
  -A loop starts which prints out all the numbers starting from 0 till the input value is reached
  
-*Test
+5)Test
 
  -A multiple-choice question is presented to the user.
  
